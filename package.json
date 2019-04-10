@@ -1,0 +1,19 @@
+{
+  "name": "taskit",
+  "version": "1.0.0",
+  "description": "todo api with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammashar56/taskit.git"
+  },
+  "author": "Mashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammashar56/taskit/issues"
+  },
+  "homepage": "https://github.com/sammashar56/taskit#readme"
+}
